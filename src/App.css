@@ -1,0 +1,41 @@
+
+.titulo {
+  text-align: center;
+  color: blue;
+}
+p {
+  text-align: center;
+}
+.boton {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(226, 43, 43);
+}
+button{
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(226, 43, 43);
+  margin-left: 10px;
+}
+.area {
+  display: flex;
+  padding: 10px;
+  color: rgb(41, 10, 10);
+  background-color: rgb(196, 196, 196);
+  justify-content: center;
+  align-items: center;
+}
+.resultado{
+  margin-top:  20px;
+  font-size: 20px;
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+  color: blue;
+  justify-content: center;
+}
